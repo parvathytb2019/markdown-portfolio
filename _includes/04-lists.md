@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>Books</li>
+  <li>Github</li>
+  <li>Friends</li>
+</ul>
